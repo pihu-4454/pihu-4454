@@ -1,10 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on a CloudOps Incident-Manager project<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning DevOps best practices<br>
+👯 I’m looking to collaborate on DevOps | Cloud |Automation <br>
+🌱 I’m currently learning Cloud Infrastructure and DevOps best practices<br>
 💬 Ask me about Tech | Cloud | DevOps<br>
-⚡ Fun fact
+⚡ Open to Full time roles in Cloud Support Associate & Junior DevOps Engineer
 
 
 ## 🌐 Socials:
